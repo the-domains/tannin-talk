@@ -1,0 +1,28 @@
+name: Tannin Talk
+favicon: null
+layout_spectrum: 0.4150134874507785
+typography_spectrum: 0.79371508047916
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5463097260799259
+  lightness: 0.9202063530683517
+  saturation: 0.2937791673466563
+  rhythmicContrast: 0.06087984796613455
+purpose: []
